@@ -1,0 +1,9 @@
+create table mobile_test(mobileid number primary key,
+name varchar2(20),
+quantity number);
+
+
+
+create table customer (id number,
+name varchar2(20),
+mobileid int references mobile_test(mobileiid));
