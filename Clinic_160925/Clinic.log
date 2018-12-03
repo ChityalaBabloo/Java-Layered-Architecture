@@ -1,0 +1,3 @@
+2018-10-29 11:11:07 INFO  Client:21 - -- log4j loaded --
+2018-10-29 11:57:59 INFO  Client:21 - -- log4j loaded --
+2018-10-29 11:58:04 INFO  PatientDAO:55 - getPatientDetails method in dao.....
